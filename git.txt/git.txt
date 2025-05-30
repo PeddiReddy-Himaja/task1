@@ -1,0 +1,7 @@
+git branch himaja
+git checkout branch name
+git status
+git add .
+git status
+git commit -m "ghj"
+git push origin branch name
